@@ -2,12 +2,12 @@
 
 @font-face {
     font-family: "Alverata-Light";
-    src: url("../fonts/Alverata-Light.woff2") ;
+    src: url("./fonts/Alverata-Light.woff2") ;
 }
 
 @font-face {
     font-family: "Alverata-Medium";
-    src: url("../fonts/Alverata-Medium.woff2") ;
+    src: url("./fonts/Alverata-Medium.woff2") ;
 }
 
 .darker-grotesque {
